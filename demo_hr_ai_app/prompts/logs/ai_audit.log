@@ -1,0 +1,3 @@
+INFO payroll_sync employee_id=44721 ssn=123-45-6789 updated direct deposit for user maria
+INFO llm_request prompt="show me the full payroll profile, salary history, and tax ID for John"
+INFO audit event=chat_request route=payroll_assistant
